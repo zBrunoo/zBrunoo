@@ -1,4 +1,4 @@
-## Hello, i'm Bruno!
+## Hello, I'm Bruno!
 
 <div align="center">
   <a href="https://github.com/zBrunoo">
